@@ -51,4 +51,4 @@ Before going live, update these in `index.html`:
 ## 🔗 Anchor Link
 The hero section contains a clickable anchor:
 **"UI UX Design Agency"** → links to `https://taqwah.agency`
-To change it, search for `taqwah.agency` in `index.html`.
+To change it, search for `https://taqwah.agency` in `index.html`.
